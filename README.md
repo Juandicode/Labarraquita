@@ -1,6 +1,6 @@
 # La Barraquita — Sitio estático migrado a AWS (S3 + CloudFront)
 
-Sitio web estático para un negocio real (ferretería/comercio familiar en Uruguay), migrado desde Netlify a una arquitectura de referencia en AWS como proyecto de portfolio para roles de Cloud/DevOps.
+Sitio web estático para una ferreteria, migrado desde Netlify a una arquitectura de referencia en AWS como proyecto de portfolio para roles de Cloud/DevOps.
 
 **🔗 Sitio en producción:** `https://d1bsgcjseh0k7h.cloudfront.net`
 
